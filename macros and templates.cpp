@@ -147,7 +147,7 @@ int binary_search(vector<int> &arr, int target) {
 }
 
 
-## DIJKSTRA'S
+## DIJKSTRAS
 
 vector<int> dijkstra(int src, int n, vector<vector<pii>> &adj) {
     vector<int> dist(n, INF);
