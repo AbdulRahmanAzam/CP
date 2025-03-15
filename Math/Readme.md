@@ -8,6 +8,8 @@ Number Spiral: https://cses.fi/problemset/task/1071/
 
 Trailing Zeros: https://cses.fi/problemset/task/1618/
 
+Odd vs Even: https://atcoder.jp/contests/arc116/tasks/arc116_a
+
 
 
 # Concepts
