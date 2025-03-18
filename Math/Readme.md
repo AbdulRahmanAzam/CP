@@ -16,6 +16,8 @@ Kth common divisor: https://atcoder.jp/contests/abc120/tasks/abc120_b
 
 Next Prime: https://atcoder.jp/contests/abc149/tasks/abc149_c
 
+One and Two: https://codeforces.com/problemset/problem/1788/A
+
 
 # Concepts
 ```
