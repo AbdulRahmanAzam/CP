@@ -18,6 +18,49 @@ Next Prime: https://atcoder.jp/contests/abc149/tasks/abc149_c
 
 One and Two: https://codeforces.com/problemset/problem/1788/A
 
+BachGold: https://codeforces.com/problemset/problem/749/A
+
+
+# Module:
+```
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define all(x) x.begin(),x.end()
+#define reverse(x) x.rbegin(), x.rend()
+#define printv(v) for (auto& val : v) cout << val << " ";
+#define rep(i, a, b) for (long long i = a; i < b; i++)
+
+typedef vector<int> vi;
+typedef vector<long long> vll;
+typedef unsigned long long ull;
+typedef long long ll;
+
+void speedup(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+}
+
+void sieve(int n){
+    vector<bool> isPrime(n+1, 1);
+    isPrime[0] = isPrime[1] = 0;
+    for (int i = 2; i * i <= n; i++){
+        if(isPrime[i]){
+            for (int j = i * i; j <= n; j += i){
+                isPrime[j] = 0;
+            }
+        }
+    }
+
+    vector<ll> prime;
+    for(int i =2; i <= n; i++){
+        if(isPrime[i]) prime.push_back(i);
+    }
+}
+
+```
 
 # Concepts
 ```
