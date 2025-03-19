@@ -20,6 +20,8 @@ One and Two: https://codeforces.com/problemset/problem/1788/A
 
 BachGold: https://codeforces.com/problemset/problem/749/A
 
+NoldBach: https://codeforces.com/problemset/problem/17/A
+
 
 # Module:
 ```
