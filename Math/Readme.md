@@ -24,6 +24,8 @@ NoldBach: https://codeforces.com/problemset/problem/17/A
 
 Count Balls: https://atcoder.jp/contests/abc158/tasks/abc158_b
 
+Large Digits: https://atcoder.jp/contests/abc187/tasks/abc187_a
+
 
 # Module:
 ```
