@@ -22,6 +22,8 @@ BachGold: https://codeforces.com/problemset/problem/749/A
 
 NoldBach: https://codeforces.com/problemset/problem/17/A
 
+Count Balls: https://atcoder.jp/contests/abc158/tasks/abc158_b
+
 
 # Module:
 ```
