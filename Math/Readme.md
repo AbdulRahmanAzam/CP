@@ -28,6 +28,7 @@ Large Digits: https://atcoder.jp/contests/abc187/tasks/abc187_a
 
 Sum of GCD of Tuples: https://atcoder.jp/contests/abc162/tasks/abc162_c
 
+Fair Candy Distribution: https://atcoder.jp/contests/abc208/tasks/abc208_c
 
 # Module:
 ```
