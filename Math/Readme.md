@@ -1,7 +1,6 @@
+```
 [Missing Number](https://github.com/AbdulRahmanAzam/competitive-Programming/blob/main/Math/Missing%20Number.cpp) : &nbsp; https://cses.fi/problemset/task/1083
-
-<a href="https://github.com/AbdulRahmanAzam/competitive-Programming/blob/main/Math/Missing%20Number.cpp" style="color: red;">Missing Number</a>
-
+```
 
 Addition: https://atcoder.jp/contests/agc010/tasks/agc010_a
 
