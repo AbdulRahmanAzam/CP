@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/6cc14aa5-7b07-4c59-92f8-64867f8d1701)
 [Missing Number](https://github.com/AbdulRahmanAzam/competitive-Programming/blob/main/Math/Missing%20Number.cpp) : &nbsp; https://cses.fi/problemset/task/1083
 
 Addition: https://atcoder.jp/contests/agc010/tasks/agc010_a
@@ -32,6 +32,8 @@ Sum of GCD of Tuples: https://atcoder.jp/contests/abc162/tasks/abc162_c
 Fair Candy Distribution: https://atcoder.jp/contests/abc208/tasks/abc208_c
 
 k-factorization: https://codeforces.com/problemset/problem/797/A
+
+Prime subtraction: https://codeforces.com/problemset/problem/1238/A
 
 # Module:
 ```
