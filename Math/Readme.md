@@ -31,6 +31,8 @@ Sum of GCD of Tuples: https://atcoder.jp/contests/abc162/tasks/abc162_c
 
 Fair Candy Distribution: https://atcoder.jp/contests/abc208/tasks/abc208_c
 
+k-factorization: https://codeforces.com/problemset/problem/797/A
+
 # Module:
 ```
 #include <bits/stdc++.h>
@@ -70,10 +72,20 @@ void sieve(int n){
     }
 }
 
+bool isPrime(int n){ // sqrt(n) trivial division method
+    if(n <= 1) return false;
+    if(n <= 3) return true;
+    if(n%2 == 0 || n%3 == 0) return false;
+    for(int i = 5; i*i < n; i+= 6)
+        if(n%i == 0 || n%(i+2) == 0) return false;
+    return true;
+}
 ```
 
 # Concepts
 ```
 all possible answers (valid + invalid) = Combinations
-valid = combination - invalid 
+valid = combination - invalid
+many prime numbers (sieve of eratosthenes)
+isPrime (sqrt(n) trivial division method)
 ```
