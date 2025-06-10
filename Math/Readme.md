@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6cc14aa5-7b07-4c59-92f8-64867f8d1701)
+
 [Missing Number](https://github.com/AbdulRahmanAzam/competitive-Programming/blob/main/Math/Missing%20Number.cpp) : &nbsp; https://cses.fi/problemset/task/1083
 
 Addition: https://atcoder.jp/contests/agc010/tasks/agc010_a
